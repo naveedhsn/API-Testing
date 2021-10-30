@@ -1,1 +1,1 @@
-# API Testing
+# API Testing was performed using postman
